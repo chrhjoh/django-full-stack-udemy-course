@@ -1,3 +1,7 @@
 h1{
     color :crimson;
 }
+
+.access_records{
+    border: 2px solid black;
+}
