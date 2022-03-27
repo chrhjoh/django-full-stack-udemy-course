@@ -11,5 +11,10 @@ You can find information about the course at the [Udemy website](https://www.ude
 ## This Repository
 The folder structure follow the course, and assigments for each section can be found in their corresponding folder here.
 <ol>
-<li> <a href="http://google.com">HTML</a> </li>
+<li> <a href="https://github.com/chrhjoh/django-full-stack-udemy-course/tree/master/html">HTML</a> </li>
+<li> <a href="https://github.com/chrhjoh/django-full-stack-udemy-course/tree/master/css">CSS</a> </li>
+<li> <a href="https://github.com/chrhjoh/django-full-stack-udemy-course/tree/master/document_object_model">Document Object Model</a> </li>
+<li> <a href="https://github.com/chrhjoh/django-full-stack-udemy-course/tree/master/bootstrap">Bootstrap</a> </li>
+<li> <a href="https://github.com/chrhjoh/django-full-stack-udemy-course/tree/master/javascript">Javascript</a> </li>
+<li> <a href="https://github.com/chrhjoh/django-full-stack-udemy-course/tree/master/jquery">Jquery</a> </li>
 </ol>
