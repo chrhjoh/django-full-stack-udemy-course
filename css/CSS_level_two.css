@@ -1,0 +1,37 @@
+
+h1{
+    font-family: 'Neonderthaw', cursive;
+    text-align: center;
+}
+
+td{
+    width: 100px;
+    height: 200px;
+    
+}
+
+.art{
+    margin: auto;
+    border-spacing: 15px;
+}
+
+#one{
+    background-color: #FFC9B5;
+}
+
+#two{
+    background-color: #F7B1AB;
+}
+
+#three{
+    background-color: #D8AA96;
+}
+#four{
+    background-color: #807182;
+}
+#five{
+    background-color: #C7D3BF;
+}
+#six{
+    background-color: #7ab4ab;
+}
